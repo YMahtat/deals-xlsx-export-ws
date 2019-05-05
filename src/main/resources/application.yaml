@@ -3,4 +3,4 @@ server:
 
 export:
     excel:
-        deals: "deals-pip.xlsx"
+        deals: "deals-pip.xls"
